@@ -1,5 +1,7 @@
 # Xiazhouqi
 
+[简体中文](./README.zh-CN.md) · **English**
+
 **Design systems · AI skills · Photography · Web tools**
 
 I build small tools and reusable systems for the things I actually use — from information-heavy web pages to visual design, photography and AI-assisted workflows.
