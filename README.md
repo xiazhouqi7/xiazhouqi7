@@ -1,28 +1,24 @@
-# Xiazhouqi
+# 下周七 Xiazhouqi
 
-[简体中文](./README.zh-CN.md) · **English**
+I turn real workflows into reusable things — AI skills, tech tutorials, design systems, and small web tools.
 
-**Design systems · AI skills · Photography · Web tools**
+**Focus:** AI skills · 技术教程 · design systems · practical web tools
 
-I build small tools and reusable systems for the things I actually use — from information-heavy web pages to visual design, photography and AI-assisted workflows.
+## Selected work
 
-## Design systems
+### Cover skills
+- [TikTok / Douyin Cover Skill](https://github.com/xiazhouqi7/xiazhouqi-tiktok-douyin-cover-skill) — 3:4 tech-tutorial covers with a fixed visual DNA
+- [Bilibili Cover Skill](https://github.com/xiazhouqi7/xiazhouqi-bilibili-cover-skill) — 16:9 covers with a warm, product-photography look
 
-- **[Xiazhouqi Clear](https://github.com/xiazhouqi7/xiazhouqi-clear-skill)** — restrained, information-first interface design for dense personal utility pages
-- **[Xiazhouqi Warm](https://github.com/xiazhouqi7/xiazhouqi-warm-skill)** — soft, warm and personal visual design for archives, lifestyle pages and gentle interfaces
+### Tutorial & web skills
+- [Tutorial Handbook Skill](https://github.com/xiazhouqi7/tutorial-handbook-skill) — turn tutorial screenshots into polished mobile-first handbook pages
+- [Blue Journal Skill](https://github.com/xiazhouqi7/blue-journal-skill) — the blue-journal visual language for HTML pages
+- [Travel Cover Skill](https://github.com/xiazhouqi7/travel-cover-skill) — quiet, photo-led travel video covers
 
-## Photography
-
-- **[Xiazhouqi Photography](https://github.com/xiazhouqi7/xiazhouqi-photography-skill)** — a growing photography, color-grading and visual storytelling system
-
-## Projects
-
-- **[Clash Downloads](https://github.com/xiazhouqi7/clash)** — a lightweight, mobile-friendly download distribution page
-- **[Apple ID Registration Notes](https://github.com/xiazhouqi7/id)** — practical notes and workflow recaps for region-account setup
-
-## Learning in public
-
-Currently learning **Java**, Git/GitHub and web tooling while turning useful workflows into reusable documentation and small projects.
+### Design systems
+- [Xiazhouqi Clear](https://github.com/xiazhouqi7/xiazhouqi-clear-skill) — restrained, information-first interface design
+- [Xiazhouqi Warm](https://github.com/xiazhouqi7/xiazhouqi-warm-skill) — soft, warm, personal visual design
+- [Xiazhouqi Photography](https://github.com/xiazhouqi7/xiazhouqi-photography-skill) — photography, color grading and visual storytelling
 
 ---
 
